@@ -41,3 +41,5 @@ import numpi
 >>추가 인용문
 
 [네이버] <http://naver.com>
+
+<http://naver.com ,"네이버">
